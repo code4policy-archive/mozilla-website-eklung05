@@ -21,12 +21,16 @@ ul {
   list-style-position: inside;
 
 }
-.mainquote {
+#mainquote {
 
-  color: mediumpurple;
-  border:  5px solid black;
+  color: mediumseagreen;
+  font-style: italic;
+  text-align: center;
+  border:  5px darkslateblue;
 }
 
 .quote {
   color: forestgreen;
+  text-align: center;
+
 }
